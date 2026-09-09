@@ -1,0 +1,24 @@
+[server]
+maxUploadSize = 500
+
+[theme]
+base = "light"
+primaryColor = "#0B6E99"
+backgroundColor = "#F7FBFC"
+secondaryBackgroundColor = "#E7F1F5"
+textColor = "#123040"
+linkColor = "#0B6E99"
+borderColor = "#C5D7DF"
+baseRadius = "0.5rem"
+blueColor = "#0B6E99"
+greenColor = "#1F7A4D"
+redColor = "#C0392B"
+orangeColor = "#D35400"
+grayColor = "#5B7380"
+
+[theme.sidebar]
+backgroundColor = "#0E3A4D"
+secondaryBackgroundColor = "#164A61"
+textColor = "#E8F4F8"
+borderColor = "#1F5A73"
+primaryColor = "#7EC8E3"

@@ -1,0 +1,13 @@
+streamlit>=1.63.0
+earthengine-api
+pysheds
+rasterio
+shapely
+fiona
+numpy
+matplotlib
+imageio
+pillow
+pyproj
+requests
+pandas
